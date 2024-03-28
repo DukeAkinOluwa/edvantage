@@ -1,11 +1,15 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [
-    
-  ],
-  "start_url": ".",
+  "name": "Edvantage",
+  "short_name": "Edvantage",
+  "start_url": "./",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#2A52BE",
+  "background_color": "#FEFAFA",
+  "icons": [
+    {
+      "src": "./Images/Logo2.png",
+      "sizes": "1080x1080",
+      "type": "image/png"
+    }
+  ]
 }
